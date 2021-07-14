@@ -28,5 +28,6 @@
   <IncludedSection>
     <Section Uid="Root[Project].CoverPage[CoverPage]" Included="true" />
     <Section Uid="Root[Project].List[Servers].Server[DENISS\SQL2019ENT].List[UserDatabases].Database[TestDB]" Included="true" />
+    <Section Uid="Root[Project].List[Servers].Server[DENISS\SQL2019ENT].List[UserDatabases].Database[TestDB].List[Security]" Included="false" />
   </IncludedSection>
 </SerializationModel>
