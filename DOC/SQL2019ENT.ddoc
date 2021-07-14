@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Devart (www.devart.com), Documenter document file -->
+<!-- Modifying this generated file will probably render it invalid -->
+<SerializationModel Version="1.0">
+  <Servers>
+    <ConnectionModel Name="DENISS\SQL2019ENT">
+      <PropertyValue Name="Database">aa8afe9c-7d62-4564-b477-c12e62e0f440</PropertyValue>
+      <PropertyValue Name="ConnectionString" xml:space="preserve">Data Source=DENISS\SQL2019ENT;Integrated Security=False;User ID=sa</PropertyValue>
+      <PropertyValue Name="ExecutionTimeout">0</PropertyValue>
+    </ConnectionModel>
+  </Servers>
+  <Settings>
+    <Autor />
+    <Copyright>Copyright © All Rights Reserved</Copyright>
+    <CreatedDateFormat>dd/MM/yyyy</CreatedDateFormat>
+    <Description />
+    <EnableBreadcrumbs>true</EnableBreadcrumbs>
+    <Header />
+    <Title>DENISS\SQL2019ENT</Title>
+    <TitleImage>logo.svg</TitleImage>
+    <Style>bootstrap/Default.css</Style>
+    <FileFormat>Pdf</FileFormat>
+    <FormatOptions d3p1:type="PdfOptionsSerializationModel" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+      <PaperKind>A4</PaperKind>
+      <PaperSize>
+        <Width>595.440063</Width>
+        <Height>841.68</Height>
+      </PaperSize>
+      <Landscape>false</Landscape>
+      <FontScale>100</FontScale>
+      <PageNumbering>false</PageNumbering>
+    </FormatOptions>
+    <OpenAfterGeneration>true</OpenAfterGeneration>
+    <AppendTimestamp>true</AppendTimestamp>
+    <Path>D:\5</Path>
+    <Output>SQL2019ENT</Output>
+  </Settings>
+  <IncludedSection>
+    <Section Uid="Root[Project].CoverPage[CoverPage]" Included="true" />
+    <Section Uid="Root[Project].List[Servers].Server[DENISS\SQL2019ENT].List[UserDatabases].Database[TestDB]" Included="true" />
+  </IncludedSection>
+</SerializationModel>
