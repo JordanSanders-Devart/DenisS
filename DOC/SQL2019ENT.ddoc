@@ -10,14 +10,14 @@
     </ConnectionModel>
   </Servers>
   <Settings>
-    <Autor>deniss</Autor>
-    <Copyright>Copyright © All Rights Reserved Devart</Copyright>
-    <CreatedDateFormat>20/12/2021</CreatedDateFormat>
+    <Autor />
+    <Copyright />
+    <CreatedDateFormat />
     <Description>test</Description>
     <EnableBreadcrumbs>true</EnableBreadcrumbs>
     <Header />
     <Title>DENISS\SQL2019ENT</Title>
-    <TitleImage>D:\Logo\Devart.png</TitleImage>
+    <TitleImage>logo.svg</TitleImage>
     <Style>bootstrap/Default.css</Style>
     <FileFormat>Html</FileFormat>
     <OpenAfterGeneration>true</OpenAfterGeneration>
