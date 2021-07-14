@@ -10,30 +10,20 @@
     </ConnectionModel>
   </Servers>
   <Settings>
-    <Autor />
-    <Copyright>Copyright © All Rights Reserved</Copyright>
-    <CreatedDateFormat>dd/MM/yyyy</CreatedDateFormat>
-    <Description />
+    <Autor>deniss</Autor>
+    <Copyright>Copyright © All Rights Reserved Devart</Copyright>
+    <CreatedDateFormat>20/12/2021</CreatedDateFormat>
+    <Description>test</Description>
     <EnableBreadcrumbs>true</EnableBreadcrumbs>
     <Header />
     <Title>DENISS\SQL2019ENT</Title>
-    <TitleImage>logo.svg</TitleImage>
+    <TitleImage>D:\Logo\Devart.png</TitleImage>
     <Style>bootstrap/Default.css</Style>
-    <FileFormat>Pdf</FileFormat>
-    <FormatOptions d3p1:type="PdfOptionsSerializationModel" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
-      <PaperKind>A4</PaperKind>
-      <PaperSize>
-        <Width>595.440063</Width>
-        <Height>841.68</Height>
-      </PaperSize>
-      <Landscape>false</Landscape>
-      <FontScale>100</FontScale>
-      <PageNumbering>false</PageNumbering>
-    </FormatOptions>
+    <FileFormat>Html</FileFormat>
     <OpenAfterGeneration>true</OpenAfterGeneration>
     <AppendTimestamp>true</AppendTimestamp>
-    <Path>D:\5</Path>
-    <Output>SQL2019ENT</Output>
+    <Path>C:\Users\deniss\Documents</Path>
+    <Output />
   </Settings>
   <IncludedSection>
     <Section Uid="Root[Project].CoverPage[CoverPage]" Included="true" />
