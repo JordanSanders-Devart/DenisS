@@ -1,0 +1,1 @@
+CREATE TABLE TestTable1 (col1 INT, col2 CHAR);
